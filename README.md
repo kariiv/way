@@ -4,5 +4,5 @@
 - Use Google Form
 - Write something nice
 - Save the response as .CSV
-- Turn .CSV into Word .DOCX
+- Turn .CSV into Word .DOCX with THIS script
 - Open Word document and style it and Wolaa, Done!
